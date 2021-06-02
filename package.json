@@ -8,8 +8,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.0",
-    "forge-apis": "^0.8.0",
-    "multer": "^1.4.0"
+    "express": "^4.17.1",
+    "forge-apis": "^0.8.5",
+    "multer": "^1.4.2"
   }
 }
